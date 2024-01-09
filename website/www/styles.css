@@ -1,0 +1,79 @@
+body {
+  background-color: white;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: ms-sarif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+/* Add a color to the active/current link of the navigation bar for page indicator */
+.topnav a.active {
+  background-color: green;
+  color: white;
+}
+
+.productlist {
+  style: clear;
+  align: left;
+}
+
+/* Add a white background to Footer link */
+.footer {
+  background-color: white;
+  overflow: hidden;
+}
+
+/* Style of footer */ 
+.footer a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: underline;
+  font-size: 17px;
+  font-family: ms-sarif;
+}
+
+/* Change the color of footer links on hover */
+.footer a:hover {
+  color: red;
+}
+
+.socialmedia {
+  display: inline-block;
+  float: left;
+  align: left;
+  height: 25px;
+  background-size: 100%, 100%;
+}
+
+h1 {
+  color: black;
+  font-family: ms-sarif;
+}
+
+h3 {
+  color: black;
+  font-family: ms-sarif;
+  font-size: 12;
+}
+
