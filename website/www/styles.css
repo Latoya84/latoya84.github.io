@@ -32,8 +32,7 @@ body {
 }
 
 .productlist {
-  style: clear;
-  align: left;
+  background-color: white;
 }
 
 /* Add a white background to Footer link */
@@ -61,7 +60,6 @@ body {
 .socialmedia {
   display: inline-block;
   float: left;
-  align: left;
   height: 25px;
   background-size: 100%, 100%;
 }
@@ -74,6 +72,5 @@ h1 {
 h3 {
   color: black;
   font-family: ms-sarif;
-  font-size: 12;
 }
 
